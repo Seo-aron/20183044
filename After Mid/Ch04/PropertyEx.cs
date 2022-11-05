@@ -25,7 +25,7 @@ namespace Chapter4
             return (numerator + "/" + denominator);
         }
     }
-    internal class Property
+    internal class PropertyEx
     {
         public static void Main()
         {
