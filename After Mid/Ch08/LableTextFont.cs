@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+namespace Chapter08
+{
     public partial class LableTextFont : Form
     {
         public LableTextFont()
@@ -60,3 +62,4 @@ using System.Windows.Forms;
             label3.Font = new Font(label3.Font.Name, 10, style);
         }
     }
+}
