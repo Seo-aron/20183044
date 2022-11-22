@@ -36,7 +36,7 @@ namespace _20183044{
             S[0].printinfo();
 
             S[1].Setinfo("Potter", 102, 27);
-//            S[1].printinfo();
-//        }
-//    }
-//}
+            S[1].printinfo();
+        }
+    }
+}
