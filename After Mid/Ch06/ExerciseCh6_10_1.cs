@@ -32,4 +32,4 @@ namespace Chapter6
             Console.WriteLine(gInteger.getValue());
         }
     }
-}
+} 
