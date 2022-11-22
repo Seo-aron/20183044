@@ -4,11 +4,11 @@ namespace _20183044{
     class student
     {
         private int rollno;
-//        private string name;
-//        private int age;
+        private string name;
+        private int age;
 
-//        public void Setinfo(string name, int rollno, int age)
-//        {
+        public void Setinfo(string name, int rollno, int age)
+        {
 //            this.rollno = rollno;
 //            this.age = age;
 //            this.name = name;
