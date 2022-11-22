@@ -29,13 +29,13 @@ namespace _20183044{
         {
             student[] S = new student[2];
             
-//            S[0] = new student();
-//            S[1] = new student();
+            S[0] = new student();
+            S[1] = new student();
 
-//            S[0].Setinfo("Herry", 101, 25);
-//            S[0].printinfo();
+            S[0].Setinfo("Herry", 101, 25);
+            S[0].printinfo();
 
-//            S[1].Setinfo("Potter", 102, 27);
+            S[1].Setinfo("Potter", 102, 27);
 //            S[1].printinfo();
 //        }
 //    }
