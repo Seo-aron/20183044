@@ -17,8 +17,8 @@ namespace _20183044{
         public void printinfo()
         {
             Console.WriteLine("Student Record: ");
-//            Console.WriteLine("\tName       : " + name);
-//            Console.WriteLine("\tRollNo     : " + rollno);
+            Console.WriteLine("\tName       : " + name);
+            Console.WriteLine("\tRollNo     : " + rollno);
 //            Console.WriteLine("\tAge        : " + age);
 //        }
 //    }
