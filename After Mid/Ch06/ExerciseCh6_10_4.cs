@@ -10,12 +10,12 @@ namespace Chapter6
             Random randomNumber = new Random();
             for(int i = 0; i < 3; i++)
             {
-//                Console.WriteLine(i + " " + Thread.CurrentThread.Name);
-//                Thread.Sleep(randomNumber.Next(1, 5) * 1000); // 1~5초 동안 대기하고 실행한다
-//            }
-//            Console.WriteLine("DONE! " + Thread.CurrentThread.Name);
-//        }
-//    }
+                Console.WriteLine(i + " " + Thread.CurrentThread.Name);
+                Thread.Sleep(randomNumber.Next(1, 5) * 1000); // 1~5초 동안 대기하고 실행한다
+            }
+            Console.WriteLine("DONE! " + Thread.CurrentThread.Name);
+        }
+    }
 //    class ExerciseCh6_10_4
 //    {
 //        public static void Main()
