@@ -1,9 +1,9 @@
 ﻿using System;
 
 namespace _20183044{
-//    class student
-//    {
-//        private int rollno;
+    class student
+    {
+        private int rollno;
 //        private string name;
 //        private int age;
 
