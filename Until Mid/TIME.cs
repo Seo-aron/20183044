@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace _20183044
-//{
-//    internal class TIME
+{
+    internal class TIME
 //    {
 //        public static void Main()
 //        {
