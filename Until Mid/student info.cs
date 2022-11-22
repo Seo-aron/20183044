@@ -9,12 +9,12 @@ namespace _20183044{
 
         public void Setinfo(string name, int rollno, int age)
         {
-//            this.rollno = rollno;
-//            this.age = age;
-//            this.name = name;
-//        }
+            this.rollno = rollno;
+            this.age = age;
+            this.name = name;
+        }
 
-//        public void printinfo()
+        public void printinfo()
 //        {
 //            Console.WriteLine("Student Record: ");
 //            Console.WriteLine("\tName       : " + name);
