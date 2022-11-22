@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 namespace _20183044
 {
     internal class TIME
-//    {
-//        public static void Main()
-//        {
-//            int time, hour, minute, second;
+    {
+        public static void Main()
+        {
+            int time, hour, minute, second;
 //            Console.WriteLine("***Enter an integral time: ");
 //            time = int.Parse(Console.ReadLine());
 //            hour = time / 10000;
