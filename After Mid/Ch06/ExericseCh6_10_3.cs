@@ -8,11 +8,11 @@ class FinallyClause
         {
             Console.WriteLine("1");
         } catch (Exception e)
-//        {
-//            Console.WriteLine("2"); // try문이 정상적으로 작동해 catch문 스킵
-//        }
-//    }
-//    public void MethodB()
+        {
+            Console.WriteLine("2"); // try문이 정상적으로 작동해 catch문 스킵
+        }
+    }
+    public void MethodB()
 //    {
 //        try
 //        {
