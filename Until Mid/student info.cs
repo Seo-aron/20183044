@@ -1,6 +1,6 @@
-﻿//using System;
+﻿using System;
 
-//namespace _20183044{
+namespace _20183044{
 //    class student
 //    {
 //        private int rollno;
