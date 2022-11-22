@@ -23,11 +23,11 @@ namespace _20183044{
         }
     }
 
-//    class Program
-//    {
-//        static void Main()
-//        {
-//            student[] S = new student[2];
+    class Program
+    {
+        static void Main()
+        {
+            student[] S = new student[2];
             
 //            S[0] = new student();
 //            S[1] = new student();
