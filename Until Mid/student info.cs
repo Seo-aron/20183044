@@ -19,9 +19,9 @@ namespace _20183044{
             Console.WriteLine("Student Record: ");
             Console.WriteLine("\tName       : " + name);
             Console.WriteLine("\tRollNo     : " + rollno);
-//            Console.WriteLine("\tAge        : " + age);
-//        }
-//    }
+            Console.WriteLine("\tAge        : " + age);
+        }
+    }
 
 //    class Program
 //    {
